@@ -1,4 +1,0 @@
-com\etake\parent\exception\SystemException.class
-com\etake\parent\config\ParentBatchConfiguration.class
-com\etake\parent\config\reader\ExcelItemReader.class
-com\etake\parent\annotation\EnableParentBatch.class
